@@ -1,0 +1,20 @@
+.title-and-description {
+    margin: 1em auto;
+    text-align: center;
+}
+
+label {
+    display: block;
+}
+
+form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+}
+
+.width-100 {
+    width: 100%;
+}
